@@ -46,25 +46,35 @@
 # [커뮤니케이션 다이어그램]
 
 
-![1  카드 배분](https://user-images.githubusercontent.com/121847260/214042896-fbe5041a-41e9-40f2-8702-38009042ffec.png)
+
+![1  베트](https://user-images.githubusercontent.com/121847260/214047467-b591a513-a2c3-49b7-af97-6c4dd12ef3ee.png)
 
 
-![2  카드 선택](https://user-images.githubusercontent.com/121847260/214042903-b338fb4b-0819-4ed9-b5dc-f4a3988720c4.png)
+![2  카드 배분](https://user-images.githubusercontent.com/121847260/214047468-0c16cb9c-c8ce-4ca9-a3a3-83332acd1671.png)
 
 
-![3  카드 공개](https://user-images.githubusercontent.com/121847260/214042905-29b1e2a8-95dd-4f1f-bdc3-4603717568ae.png)
+![3  카드 선택](https://user-images.githubusercontent.com/121847260/214047470-d7df5f98-3289-4704-bf04-c1891d9ede7a.png)
 
 
-![4  게임 승부](https://user-images.githubusercontent.com/121847260/214042906-2c684c05-e898-410a-ab7a-edbb0c0b7a94.png)
+![4  카드 공개](https://user-images.githubusercontent.com/121847260/214047480-a5da2639-27c1-459c-add4-ba62c9ca268d.png)
 
 
-![5  게임 포기](https://user-images.githubusercontent.com/121847260/214042909-ca413dee-4799-43f5-b1cd-795b832f4416.png)
+![5  레이즈](https://user-images.githubusercontent.com/121847260/214047486-03165ca4-fe0e-4c4c-b6a9-cdff3dbf59d3.png)
 
 
-![6  게임 종료](https://user-images.githubusercontent.com/121847260/214042910-89b6bc2a-30ca-424d-82ae-821da324428a.png)
+![6  게임 포기](https://user-images.githubusercontent.com/121847260/214047492-84ddd053-65a9-420b-ab01-0576d90381b2.png)
 
 
-![7  게임 재시작](https://user-images.githubusercontent.com/121847260/214042918-c8a5413f-0f27-4673-95b6-953a1cac9626.png)
+![7  게임 승부](https://user-images.githubusercontent.com/121847260/214047498-67dc09ab-e9de-4489-8d4a-d49e9636f29f.png)
+
+
+![8  게임 계속 진행](https://user-images.githubusercontent.com/121847260/214047500-63a7c50f-27ed-4eb2-bd73-27eb8b8159f8.png)
+
+
+![9  게임 초기화](https://user-images.githubusercontent.com/121847260/214047505-8a3c1676-0ab5-4372-87ab-9f50c1a9526d.png)
+
+
+![10  게임 종료](https://user-images.githubusercontent.com/121847260/214047507-a8c9c767-f304-41fe-8917-d582891f340e.png)
 
 
 
@@ -73,6 +83,7 @@
 # [클래스 다이어그램]
 
 
-![인디언 포커 클래스 다이어그램 drawio](https://user-images.githubusercontent.com/121847260/214042967-7a52c613-5a1a-4b5b-87d2-31f1f08ab448.png)
+
+![인디언 포커 클래스 다이어그램](https://user-images.githubusercontent.com/121847260/214047624-c1553bc0-bb26-460b-b3fd-f9478d51473f.png)
 
 
