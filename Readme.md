@@ -46,31 +46,33 @@
 # [커뮤니케이션 다이어그램]
 
 
-
-![1  카드 배분](https://user-images.githubusercontent.com/121847260/213863828-03c757d5-3c8c-49ff-a680-c6f2a8221745.png)
-
-
-![2  카드 선택](https://user-images.githubusercontent.com/121847260/213863829-e3f2b6f8-fdf7-46f8-8fd5-08501e55bfc4.png)
+![1  카드 배분](https://user-images.githubusercontent.com/121847260/214042896-fbe5041a-41e9-40f2-8702-38009042ffec.png)
 
 
-![3  카드 공개](https://user-images.githubusercontent.com/121847260/213863831-efe67d5a-223a-46c3-8850-4230aa923cd8.png)
+![2  카드 선택](https://user-images.githubusercontent.com/121847260/214042903-b338fb4b-0819-4ed9-b5dc-f4a3988720c4.png)
 
 
-![4  게임 승부](https://user-images.githubusercontent.com/121847260/213863833-13bae567-f352-40f2-9249-611ad539ba99.png)
+![3  카드 공개](https://user-images.githubusercontent.com/121847260/214042905-29b1e2a8-95dd-4f1f-bdc3-4603717568ae.png)
 
 
-![5  게임 포기](https://user-images.githubusercontent.com/121847260/213863834-336f9c10-b90d-46a3-aec6-f89e886c8d0f.png)
+![4  게임 승부](https://user-images.githubusercontent.com/121847260/214042906-2c684c05-e898-410a-ab7a-edbb0c0b7a94.png)
 
 
-![6  게임 종료](https://user-images.githubusercontent.com/121847260/213863835-d645c4ac-b6e2-4200-a865-b059056c239f.png)
+![5  게임 포기](https://user-images.githubusercontent.com/121847260/214042909-ca413dee-4799-43f5-b1cd-795b832f4416.png)
 
 
-![7  게임 재시작](https://user-images.githubusercontent.com/121847260/213863837-f44a22b5-07bc-4396-802b-691b2999ac22.png)
+![6  게임 종료](https://user-images.githubusercontent.com/121847260/214042910-89b6bc2a-30ca-424d-82ae-821da324428a.png)
+
+
+![7  게임 재시작](https://user-images.githubusercontent.com/121847260/214042918-c8a5413f-0f27-4673-95b6-953a1cac9626.png)
+
+
 
 
 
 # [클래스 다이어그램]
 
 
+![인디언 포커 클래스 다이어그램 drawio](https://user-images.githubusercontent.com/121847260/214042967-7a52c613-5a1a-4b5b-87d2-31f1f08ab448.png)
 
 
